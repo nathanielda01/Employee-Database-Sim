@@ -1,0 +1,3 @@
+D:\Needed\Software Development\Portfolio\C#_Employee_Database_Simulation\CS3260_Proj01_NDA\obj\Debug\Employee_Database_Sim.csprojAssemblyReference.cache
+D:\Needed\Software Development\Portfolio\C#_Employee_Database_Simulation\CS3260_Proj01_NDA\obj\Debug\Employee_Database_Sim.Form1.resources
+D:\Needed\Software Development\Portfolio\C#_Employee_Database_Simulation\CS3260_Proj01_NDA\obj\Debug\Employee_Database_Sim.csproj.GenerateResource.cache

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CS3260_Lab06_NDA.Employee">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAAAhAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.Contract">
+    <Position X="1.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAACAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.Form1">
+    <Position X="14.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BwCAAAAgACBAADAAAACKABACAAwAIIAAAgSCAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.Hourly">
+    <Position X="4.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAACAAEAAAAAAEAAAABAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Hourly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.Program">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.Salary">
+    <Position X="7.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAABAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.Sales">
+    <Position X="7.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAIAAAACAAEAAAAAAAAABEAAAABAAAAAIAAAAA=</HashCode>
+      <FileName>Sales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CS3260_Lab06_NDA.BusinessRules">
+    <Position X="10.25" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAABAQABAACACQAgAADAAQAAAAAAAgEAAAAAACA=</HashCode>
+      <FileName>BusinessRules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
